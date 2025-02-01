@@ -3,4 +3,4 @@
 ](https://www.mediafire.com/file/q75jnqetcieprwr/HeartSoul0011.7z/file)
 - changed gym leaders up until champ to double battles, improved difficulty
 - changed trade evolutions to level up evolutions
-- diversified wild encounter up until route 42  
+- diversified wild encounters
